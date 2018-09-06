@@ -1,2 +1,1 @@
-# BST
-BST tree all functions
+Data Structures
