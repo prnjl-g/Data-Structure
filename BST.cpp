@@ -1,3 +1,6 @@
+/* Binary search tree
+implementation by
+@prnjl-g */
 #include<bits/stdc++.h>
 using namespace std;
 
