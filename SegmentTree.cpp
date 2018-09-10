@@ -1,4 +1,5 @@
 int segTree[100000];
+
 int getMid(int starting_index,int ending_index)
 {
     return (starting_index+((ending_index-starting_index)/2.0));
