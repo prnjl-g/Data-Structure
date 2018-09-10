@@ -1,5 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
 int segTree[100000];
 int getMid(int starting_index,int ending_index)
 {
