@@ -1,3 +1,11 @@
+/*
+Implementation of Segment Tree
+to find minimumnumber in the given range
+of an array by
+@prnjl-g
+*/
+
+
 int segTree[100000];
 
 int getMid(int starting_index,int ending_index)
